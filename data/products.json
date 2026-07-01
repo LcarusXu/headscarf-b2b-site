@@ -2,9 +2,9 @@
   {
     "sku": "NV-MOD-001",
     "name": "Blue Tie-dye Hijab",
-    "category": "Modal Hijab",
+    "category": "Tie-dye",
     "shade": "Model:Blue-MU1601-26 · Tie-dye Hijab",
-    "price": 5.0,
+    "price": 5,
     "image": "assets/img/prod-blue-tie-dye.jpg",
     "badges": [
       "Bestseller"
@@ -14,9 +14,9 @@
   {
     "sku": "NV-MOD-002",
     "name": "Watercolor Tie-dye Hijab",
-    "category": "Modal Hijab",
+    "category": "Tie-dye",
     "shade": "Model:Colorful-MU1601-66 · Tie-dye Hijab",
-    "price": 5.0,
+    "price": 5,
     "image": "assets/img/prod-watercolor-tie-dye.jpg",
     "badges": [
       "Bestseller"
@@ -26,9 +26,9 @@
   {
     "sku": "NV-MOD-003",
     "name": "Black Tie-dye Hijab",
-    "category": "Modal Hijab",
+    "category": "Tie-dye",
     "shade": "Model:Dark-MU1601-128 · Tie-dye Hijab",
-    "price": 5.0,
+    "price": 5,
     "image": "assets/img/prod-black-tie-dye.jpg",
     "badges": [
       "Bestseller"
