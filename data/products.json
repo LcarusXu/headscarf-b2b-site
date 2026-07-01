@@ -1,100 +1,100 @@
 [
   {
     "sku": "NV-MOD-001",
-    "name": "Cloud Modal Hijab",
+    "name": "Blue Tie-dye Hijab",
     "category": "Modal Hijab",
-    "shade": "Soft Stone",
-    "price": 24.0,
-    "image": "assets/img/product-cloud-modal-soft-stone.svg",
+    "shade": "Model:Blue-MU1601-26 · Tie-dye Hijab",
+    "price": 5.0,
+    "image": "assets/img/prod-blue-tie-dye.jpg",
     "badges": [
       "Bestseller"
     ],
-    "description": "Cloud Modal Hijab in Soft Stone, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Blue Tie-dye Hijab, Model:Blue-MU1601-26 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-MOD-002",
-    "name": "Oat Milk Modal Hijab",
+    "name": "Watercolor Tie-dye Hijab",
     "category": "Modal Hijab",
-    "shade": "Oat Milk",
-    "price": 24.0,
-    "image": "assets/img/product-oat-milk-modal.svg",
+    "shade": "Model:Colorful-MU1601-66 · Tie-dye Hijab",
+    "price": 5.0,
+    "image": "assets/img/prod-watercolor-tie-dye.jpg",
     "badges": [
       "Bestseller"
     ],
-    "description": "Oat Milk Modal Hijab in Oat Milk, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Watercolor Tie-dye Hijab, Model:Colorful-MU1601-66 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-MOD-003",
-    "name": "Sage Modal Hijab",
+    "name": "Black Tie-dye Hijab",
     "category": "Modal Hijab",
-    "shade": "Dusty Sage",
-    "price": 24.0,
-    "image": "assets/img/product-sage-modal.svg",
+    "shade": "Model:Dark-MU1601-128 · Tie-dye Hijab",
+    "price": 5.0,
+    "image": "assets/img/prod-black-tie-dye.jpg",
     "badges": [
       "Bestseller"
     ],
-    "description": "Sage Modal Hijab in Dusty Sage, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Black Tie-dye Hijab, Model:Dark-MU1601-128 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-CHF-001",
-    "name": "Air Chiffon Hijab",
+    "name": "Elegant Chiffon Hijab",
     "category": "Chiffon Hijab",
-    "shade": "Blush Sand",
-    "price": 19.0,
-    "image": "assets/img/product-air-chiffon-blush.svg",
+    "shade": "Model:HL3-3 · Chiffon Hijab",
+    "price": 3.0,
+    "image": "assets/img/prod-elegant-chiffon.jpg",
     "badges": [
       "Bestseller"
     ],
-    "description": "Air Chiffon Hijab in Blush Sand, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Elegant Chiffon Hijab, Model:HL3-3 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-CHF-002",
-    "name": "Pearl Chiffon Hijab",
+    "name": "Taupe Chiffon Hijab",
     "category": "Chiffon Hijab",
-    "shade": "Pearl",
-    "price": 19.0,
-    "image": "assets/img/product-pearl-chiffon.svg",
+    "shade": "Model:HL4-6 · Chiffon Hijab",
+    "price": 3.0,
+    "image": "assets/img/prod-taupe-chiffon.jpg",
     "badges": [],
-    "description": "Pearl Chiffon Hijab in Pearl, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Taupe Chiffon Hijab, Model:HL4-6 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-CHF-003",
-    "name": "Cocoa Chiffon Hijab",
+    "name": "Red Chiffon Hijab",
     "category": "Chiffon Hijab",
-    "shade": "Cocoa",
-    "price": 19.0,
-    "image": "assets/img/product-cocoa-chiffon.svg",
+    "shade": "Model:HL4-15 · Chiffon Hijab",
+    "price": 3.0,
+    "image": "assets/img/prod-red-chiffon.jpg",
     "badges": [],
-    "description": "Cocoa Chiffon Hijab in Cocoa, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Red Chiffon Hijab, Model:HL4-15 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-VOI-001",
-    "name": "Soft Voile Hijab",
+    "name": "Cocoa Voile Hijab",
     "category": "Voile Hijab",
-    "shade": "Mist Blue",
-    "price": 21.0,
-    "image": "assets/img/product-soft-voile-mist-blue.svg",
+    "shade": "Model:HL6-11 · Voile Hijab",
+    "price": 4.0,
+    "image": "assets/img/prod-cocoa-voile.jpg",
     "badges": [
       "Bestseller"
     ],
-    "description": "Soft Voile Hijab in Mist Blue, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Cocoa Voile Hijab, Model:HL6-11 · Voile Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-VOI-002",
-    "name": "Cream Voile Hijab",
+    "name": "Violet Voile Hijab",
     "category": "Voile Hijab",
-    "shade": "Cream",
-    "price": 21.0,
-    "image": "assets/img/product-cream-voile.svg",
+    "shade": "Model:HL6-12 · Voile Hijab",
+    "price": 4.0,
+    "image": "assets/img/prod-violet-voile.jpg",
     "badges": [],
-    "description": "Cream Voile Hijab in Cream, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Violet Voile Hijab, Model:HL6-12 · Voile Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-VOI-003",
     "name": "Olive Voile Hijab",
     "category": "Voile Hijab",
     "shade": "Olive Grey",
-    "price": 21.0,
+    "price": 21,
     "image": "assets/img/product-olive-voile.svg",
     "badges": [],
     "description": "Olive Voile Hijab in Olive Grey, designed with a soft drape and refined everyday finish for modest styling."
@@ -104,7 +104,7 @@
     "name": "Everyday Jersey Hijab",
     "category": "Jersey Hijab",
     "shade": "Black",
-    "price": 22.0,
+    "price": 22,
     "image": "assets/img/product-everyday-jersey-black.svg",
     "badges": [
       "Bestseller"
@@ -116,7 +116,7 @@
     "name": "Taupe Jersey Hijab",
     "category": "Jersey Hijab",
     "shade": "Taupe",
-    "price": 22.0,
+    "price": 22,
     "image": "assets/img/product-taupe-jersey.svg",
     "badges": [],
     "description": "Taupe Jersey Hijab in Taupe, designed with a soft drape and refined everyday finish for modest styling."
@@ -126,7 +126,7 @@
     "name": "Rose Jersey Hijab",
     "category": "Jersey Hijab",
     "shade": "Dusty Rose",
-    "price": 22.0,
+    "price": 22,
     "image": "assets/img/product-rose-jersey.svg",
     "badges": [],
     "description": "Rose Jersey Hijab in Dusty Rose, designed with a soft drape and refined everyday finish for modest styling."
@@ -136,7 +136,7 @@
     "name": "Cotton Linen Hijab",
     "category": "Cotton Linen Hijab",
     "shade": "Flax",
-    "price": 23.0,
+    "price": 23,
     "image": "assets/img/product-cotton-linen-flax.svg",
     "badges": [
       "Bestseller"
@@ -148,7 +148,7 @@
     "name": "Cotton Linen Hijab",
     "category": "Cotton Linen Hijab",
     "shade": "Moss",
-    "price": 23.0,
+    "price": 23,
     "image": "assets/img/product-cotton-linen-moss.svg",
     "badges": [],
     "description": "Cotton Linen Hijab in Moss, designed with a soft drape and refined everyday finish for modest styling."
@@ -158,7 +158,7 @@
     "name": "Botanical Printed Hijab",
     "category": "Printed Hijab",
     "shade": "Garden Taupe",
-    "price": 26.0,
+    "price": 26,
     "image": "assets/img/product-botanical-printed.svg",
     "badges": [
       "Bestseller"
@@ -170,7 +170,7 @@
     "name": "Dawn Printed Hijab",
     "category": "Printed Hijab",
     "shade": "Soft Multi",
-    "price": 26.0,
+    "price": 26,
     "image": "assets/img/product-dawn-printed.svg",
     "badges": [],
     "description": "Dawn Printed Hijab in Soft Multi, designed with a soft drape and refined everyday finish for modest styling."
@@ -180,7 +180,7 @@
     "name": "Fringe Hijab",
     "category": "Fringe Hijab",
     "shade": "Honey Beige",
-    "price": 25.0,
+    "price": 25,
     "image": "assets/img/product-fringe-honey.svg",
     "badges": [
       "Bestseller"
@@ -192,7 +192,7 @@
     "name": "Fringe Hijab",
     "category": "Fringe Hijab",
     "shade": "Clay",
-    "price": 25.0,
+    "price": 25,
     "image": "assets/img/product-fringe-clay.svg",
     "badges": [],
     "description": "Fringe Hijab in Clay, designed with a soft drape and refined everyday finish for modest styling."
@@ -202,7 +202,7 @@
     "name": "Instant Hijab",
     "category": "Instant Hijab",
     "shade": "Onyx",
-    "price": 28.0,
+    "price": 28,
     "image": "assets/img/product-instant-onyx.svg",
     "badges": [
       "Bestseller"
@@ -214,7 +214,7 @@
     "name": "Instant Hijab",
     "category": "Instant Hijab",
     "shade": "Warm Nude",
-    "price": 28.0,
+    "price": 28,
     "image": "assets/img/product-instant-warm-nude.svg",
     "badges": [],
     "description": "Instant Hijab in Warm Nude, designed with a soft drape and refined everyday finish for modest styling."
@@ -224,7 +224,7 @@
     "name": "Magnet Pin Set",
     "category": "Hijab Accessories",
     "shade": "Gold & Pearl",
-    "price": 12.0,
+    "price": 12,
     "image": "assets/img/product-magnet-pin-set.svg",
     "badges": [
       "Bestseller"
@@ -236,7 +236,7 @@
     "name": "No-Slip Undercap",
     "category": "Hijab Accessories",
     "shade": "Cream",
-    "price": 14.0,
+    "price": 14,
     "image": "assets/img/product-no-slip-undercap.svg",
     "badges": [],
     "description": "No-Slip Undercap in Cream, designed with a soft drape and refined everyday finish for modest styling."
@@ -246,7 +246,7 @@
     "name": "Everyday Soft Shawl",
     "category": "Other Scarf & Shawl",
     "shade": "Stone Stripe",
-    "price": 32.0,
+    "price": 32,
     "image": "assets/img/product-everyday-soft-shawl.svg",
     "badges": [
       "Bestseller"
@@ -258,7 +258,7 @@
     "name": "Evening Satin Shawl",
     "category": "Other Scarf & Shawl",
     "shade": "Champagne",
-    "price": 36.0,
+    "price": 36,
     "image": "assets/img/product-evening-satin-shawl.svg",
     "badges": [],
     "description": "Evening Satin Shawl in Champagne, designed with a soft drape and refined everyday finish for modest styling."
