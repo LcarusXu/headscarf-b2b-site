@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" role="img">
+<title>Original product image - Air Chiffon Hijab</title>
+<desc>Original draped textile product illustration for Air Chiffon Hijab.</desc>
+
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf7f1"/><stop offset="1" stop-color="#eee2d6"/></linearGradient>
+      <filter id="shadow"><feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#2d2924" flood-opacity=".15"/></filter>
+    </defs>
+    <rect width="1000" height="1250" fill="url(#bg)"/>
+    <circle cx="820" cy="160" r="210" fill="#fff" opacity=".45"/>
+    <ellipse cx="500" cy="1060" rx="310" ry="70" fill="#222" opacity=".09"/>
+    <g filter="url(#shadow)">
+      <path d="M240 155 C414 90 690 110 785 230 C850 312 820 425 740 482 C697 512 684 574 728 640 C800 750 758 912 620 988 C500 1054 330 1030 240 940 C142 842 180 714 248 650 C295 606 290 552 248 516 C142 426 122 260 240 155Z" fill="#e5bdae"/>
+      <path d="M310 202 C455 160 626 172 712 258 C610 270 498 306 415 380 C333 453 306 554 328 644 C257 602 218 520 224 420 C232 306 264 238 310 202Z" fill="#fff" opacity=".28"/>
+      <path d="M360 190 C300 325 310 472 402 610 C506 765 512 874 432 1005" fill="none" stroke="#fff" stroke-width="24" stroke-opacity=".22" stroke-linecap="round"/>
+      <path d="M642 226 C730 370 694 520 603 658 C518 787 552 888 675 970" fill="none" stroke="#855b52" stroke-width="22" stroke-opacity=".15" stroke-linecap="round"/>
+      
+    </g>
+    <rect x="78" y="80" width="212" height="42" rx="21" fill="#fff" opacity=".6"/>
+    <text x="104" y="108" font-family="Georgia,serif" font-size="22" fill="#3a342f" letter-spacing="2">NUVAYLE</text>
+    
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img">
+<title>Original category image: Hijab Accessories</title>
+<desc>Original flatlay textile/accessory composition for NUVAYLE.</desc>
+
+    <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f2ed"/><stop offset="1" stop-color="#d9d2c7"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#201b17" flood-opacity=".12"/></filter></defs>
+    <rect width="1000" height="1000" fill="url(#bg)"/>
+    <circle cx="805" cy="170" r="200" fill="#fff" opacity=".35"/>
+    <g filter="url(#sh)">
+      <path d="M190 280 C340 190 592 200 750 322 C830 384 832 510 735 568 C615 640 638 816 490 854 C342 892 170 785 170 610 C170 478 105 356 190 280Z" fill="#aaa094"/>
+      <path d="M258 330 C390 280 560 290 690 392" fill="none" stroke="#fff" stroke-width="28" stroke-opacity=".26" stroke-linecap="round"/>
+      <path d="M288 700 C440 760 592 748 710 648" fill="none" stroke="#242220" stroke-width="18" stroke-opacity=".12" stroke-linecap="round"/>
+      <rect x="650" y="120" width="160" height="255" rx="80" fill="#6a625a" transform="rotate(16 730 248)"/>
+      <circle cx="724" cy="235" r="44" fill="#f9f0e6" opacity=".8"/>
+      <circle cx="775" cy="278" r="18" fill="#f9f0e6" opacity=".8"/>
+    </g>
+    <text x="75" y="900" font-family="Georgia,serif" font-size="44" fill="#242220" opacity=".82">NUVAYLE</text>
+    
+</svg>
