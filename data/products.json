@@ -238,5 +238,55 @@
     "image": "assets/img/product-evening-satin-shawl.svg",
     "badges": [],
     "description": "Evening Satin Shawl in Champagne, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-MOD-004",
+    "name": "Ink-wash Tie-dye Hijab",
+    "category": "Tie-dye",
+    "shade": "Light color-MU1601-180",
+    "price": 5,
+    "image": "assets/img/prod-mu1601-180.jpg",
+    "badges": [],
+    "description": "Ink-wash Tie-dye Hijab, Model: Light color-MU1601-180, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-MOD-005",
+    "name": "Leopard print Tie-dye Hijab",
+    "category": "Tie-dye",
+    "shade": "Leopard-MU1601-89",
+    "price": 5,
+    "image": "assets/img/prod-mu1601-89.jpg",
+    "badges": [],
+    "description": "Leopard print Tie-dye Hijab, Model: Leopard-MU1601-89, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-MOD-006",
+    "name": "Luxury Tie-dye Hijab",
+    "category": "Tie-dye",
+    "shade": "Brown-MU1601-66",
+    "price": 5,
+    "image": "assets/img/prod-mu1601-66.jpg",
+    "badges": [],
+    "description": "Luxury Tie-dye Hijab, Model: Brown-MU1601-66, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-MOD-007",
+    "name": "Brilliant Tie-dye Hijab",
+    "category": "Tie-dye",
+    "shade": "Yellow-MU1601-124",
+    "price": 5,
+    "image": "assets/img/prod-mu1601-124.jpg",
+    "badges": [],
+    "description": "Brilliant Tie-dye Hijab, Model: Yellow-MU1601-124, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-MOD-008",
+    "name": "Red Tie-dye Hijab",
+    "category": "Tie-dye",
+    "shade": "Red-MU1601-01",
+    "price": 5,
+    "image": "assets/img/prod-mu1601-01.jpg",
+    "badges": [],
+    "description": "Red Tie-dye Hijab, Model: Red-MU1601-01, designed with a soft drape and refined everyday finish for modest styling."
   }
 ]
