@@ -33,31 +33,31 @@
     "sku": "NV-CHF-001",
     "name": "Elegant Chiffon Hijab",
     "category": "Chiffon Hijab",
-    "shade": "Model:HL3-3 · Chiffon Hijab",
+    "shade": "Model:HL3-3",
     "price": 3,
     "image": "assets/img/prod-elegant-chiffon.jpg",
     "badges": ["Bestseller"],
-    "description": "Elegant Chiffon Hijab, Model:HL3-3 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Elegant Chiffon Hijab, Model:HL3-3, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-CHF-002",
     "name": "Taupe Chiffon Hijab",
     "category": "Chiffon Hijab",
-    "shade": "Model:HL4-6 · Chiffon Hijab",
+    "shade": "Model:HL4-6",
     "price": 3,
     "image": "assets/img/prod-taupe-chiffon.jpg",
     "badges": [],
-    "description": "Taupe Chiffon Hijab, Model:HL4-6 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Taupe Chiffon Hijab, Model:HL4-6, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-CHF-003",
     "name": "Red Chiffon Hijab",
     "category": "Chiffon Hijab",
-    "shade": "Model:HL4-15 · Chiffon Hijab",
+    "shade": "Model:HL4-15",
     "price": 3,
     "image": "assets/img/prod-red-chiffon.jpg",
     "badges": [],
-    "description": "Red Chiffon Hijab, Model:HL4-15 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Red Chiffon Hijab, Model:HL4-15, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-VOI-001",
