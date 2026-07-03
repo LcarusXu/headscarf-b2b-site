@@ -30,6 +30,56 @@
     "description": "Black Tie-dye Hijab, Model:Dark-MU1601-128, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
+    "sku": "NV-CHF-001",
+    "name": "Elegant Chiffon Hijab",
+    "category": "Chiffon Hijab",
+    "shade": "Model:HL3-3",
+    "price": 3,
+    "image": "assets/img/prod-elegant-chiffon.jpg",
+    "badges": ["Bestseller"],
+    "description": "Elegant Chiffon Hijab, Model:HL3-3, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-CHF-002",
+    "name": "Taupe Chiffon Hijab",
+    "category": "Chiffon Hijab",
+    "shade": "Model:HL4-6",
+    "price": 3,
+    "image": "assets/img/prod-taupe-chiffon.jpg",
+    "badges": [],
+    "description": "Taupe Chiffon Hijab, Model:HL4-6, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-VOI-001",
+    "name": "Cocoa Voile Hijab",
+    "category": "Voile Hijab",
+    "shade": "Model:HL6-11",
+    "price": 4,
+    "image": "assets/img/prod-cocoa-voile.jpg",
+    "badges": ["Bestseller"],
+    "description": "Cocoa Voile Hijab, Model:HL6-11, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-VOI-002",
+    "name": "Pink Voile Hijab",
+    "category": "Voile Hijab",
+    "shade": "Model: HL6-5",
+    "price": 4,
+    "image": "assets/img/prod-pink-voile.jpg",
+    "badges": [],
+    "description": "Pink Voile Hijab, Model: HL6-5, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-PRT-001",
+    "name": "Pink Floral Chiffon Hijab",
+    "category": "Printed Hijab",
+    "shade": "Model : HL7-1",
+    "price": 4,
+    "image": "assets/img/prod-pink-floral.jpg",
+    "badges": ["Bestseller"],
+    "description": "Pink Floral Chiffon Hijab in Model : HL7-1, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
     "sku": "NV-MOD-004",
     "name": "Ink-wash Tie-dye Hijab",
     "category": "Tie-dye",
@@ -80,26 +130,6 @@
     "description": "Red Tie-dye Hijab, Model: Red-MU1601-01, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
-    "sku": "NV-CHF-001",
-    "name": "Elegant Chiffon Hijab",
-    "category": "Chiffon Hijab",
-    "shade": "Model:HL3-3",
-    "price": 3,
-    "image": "assets/img/prod-elegant-chiffon.jpg",
-    "badges": ["Bestseller"],
-    "description": "Elegant Chiffon Hijab, Model:HL3-3, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
-    "sku": "NV-CHF-002",
-    "name": "Taupe Chiffon Hijab",
-    "category": "Chiffon Hijab",
-    "shade": "Model:HL4-6",
-    "price": 3,
-    "image": "assets/img/prod-taupe-chiffon.jpg",
-    "badges": [],
-    "description": "Taupe Chiffon Hijab, Model:HL4-6, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
     "sku": "NV-CHF-003",
     "name": "Red Chiffon Hijab",
     "category": "Chiffon Hijab",
@@ -108,26 +138,6 @@
     "image": "assets/img/prod-red-chiffon.jpg",
     "badges": [],
     "description": "Red Chiffon Hijab, Model:HL4-15, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
-    "sku": "NV-VOI-001",
-    "name": "Cocoa Voile Hijab",
-    "category": "Voile Hijab",
-    "shade": "Model:HL6-11",
-    "price": 4,
-    "image": "assets/img/prod-cocoa-voile.jpg",
-    "badges": ["Bestseller"],
-    "description": "Cocoa Voile Hijab, Model:HL6-11, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
-    "sku": "NV-VOI-002",
-    "name": "Pink Voile Hijab",
-    "category": "Voile Hijab",
-    "shade": "Model: HL6-5",
-    "price": 4,
-    "image": "assets/img/prod-pink-voile.jpg",
-    "badges": [],
-    "description": "Pink Voile Hijab, Model: HL6-5, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-VOI-003",
@@ -188,16 +198,6 @@
     "image": "assets/img/product-cotton-linen-moss.svg",
     "badges": [],
     "description": "Cotton Linen Hijab in Moss, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
-    "sku": "NV-PRT-001",
-    "name": "Pink Floral Chiffon Hijab",
-    "category": "Printed Hijab",
-    "shade": "Model : HL7-1",
-    "price": 4,
-    "image": "assets/img/prod-pink-floral.jpg",
-    "badges": ["Bestseller"],
-    "description": "Pink Floral Chiffon Hijab in Model : HL7-1, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-PRT-002",
