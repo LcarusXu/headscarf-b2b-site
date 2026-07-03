@@ -155,25 +155,25 @@
   },
   {
     "sku": "NV-PRT-001",
-    "name": "Botanical Printed Hijab",
+    "name": "Pink Floral Chiffon Hijab",
     "category": "Printed Hijab",
-    "shade": "Garden Taupe",
-    "price": 26,
-    "image": "assets/img/product-botanical-printed.svg",
+    "shade": "Model : HL7-1",
+    "price": 4,
+    "image": "assets/img/prod-pink-floral.jpg",
     "badges": [
       "Bestseller"
     ],
-    "description": "Botanical Printed Hijab in Garden Taupe, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Pink Floral Chiffon Hijab in Model : HL7-1, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-PRT-002",
-    "name": "Dawn Printed Hijab",
+    "name": "Green Floral Chiffon Hijab",
     "category": "Printed Hijab",
-    "shade": "Soft Multi",
-    "price": 26,
-    "image": "assets/img/product-dawn-printed.svg",
+    "shade": "Model : HL7-10",
+    "price": 4,
+    "image": "assets/img/prod-green-floral.jpg",
     "badges": [],
-    "description": "Dawn Printed Hijab in Soft Multi, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Green Floral Chiffon Hijab in Model : HL7-10, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-FRG-001",
