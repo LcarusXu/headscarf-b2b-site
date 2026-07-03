@@ -81,6 +81,26 @@
   },
   {
     "sku": "NV-VOI-002",
+    "name": "Pink Voile Hijab",
+    "category": "Voile Hijab",
+    "shade": "Model: HL6-5",
+    "price": 4,
+    "image": "assets/img/prod-pink-voile.jpg",
+    "badges": [],
+    "description": "Pink Voile Hijab, Model: HL6-5, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-VOI-003",
+    "name": "Blue Voile Hijab",
+    "category": "Voile Hijab",
+    "shade": "Model:HL6-1",
+    "price": 4,
+    "image": "assets/img/prod-blue-voile-v2.jpg",
+    "badges": [],
+    "description": "Blue Voile Hijab, Model:HL6-1, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-VOI-002",
     "name": "Violet Voile Hijab",
     "category": "Voile Hijab",
     "shade": "Model:HL6-12",
