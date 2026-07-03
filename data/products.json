@@ -71,13 +71,33 @@
     "sku": "NV-VOI-001",
     "name": "Cocoa Voile Hijab",
     "category": "Voile Hijab",
-    "shade": "Model:HL6-11 · Voile Hijab",
-    "price": 4.0,
+    "shade": "Model:HL6-11",
+    "price": 4,
     "image": "assets/img/prod-cocoa-voile.jpg",
     "badges": [
       "Bestseller"
     ],
-    "description": "Cocoa Voile Hijab, Model:HL6-11 · Voile Hijab, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Cocoa Voile Hijab, Model:HL6-11, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-VOI-002",
+    "name": "Violet Voile Hijab",
+    "category": "Voile Hijab",
+    "shade": "Model:HL6-12",
+    "price": 4,
+    "image": "assets/img/prod-violet-voile.jpg",
+    "badges": [],
+    "description": "Violet Voile Hijab, Model:HL6-12, designed with a soft drape and refined everyday finish for modest styling."
+  },
+  {
+    "sku": "NV-VOI-003",
+    "name": "Blue Voile Hijab",
+    "category": "Voile Hijab",
+    "shade": "Model:HL6-1",
+    "price": 4,
+    "image": "assets/img/prod-blue-voile-v2.jpg",
+    "badges": [],
+    "description": "Blue Voile Hijab, Model:HL6-1, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-VOI-002",
