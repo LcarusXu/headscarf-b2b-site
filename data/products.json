@@ -3,31 +3,31 @@
     "sku": "NV-MOD-001",
     "name": "Blue Tie-dye Hijab",
     "category": "Tie-dye",
-    "shade": "Model:Blue-MU1601-26 · Tie-dye Hijab",
+    "shade": "Model:Blue-MU1601-26",
     "price": 5,
     "image": "assets/img/prod-blue-tie-dye.jpg",
     "badges": ["Bestseller"],
-    "description": "Blue Tie-dye Hijab, Model:Blue-MU1601-26 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Blue Tie-dye Hijab, Model:Blue-MU1601-26, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-MOD-002",
     "name": "Watercolor Tie-dye Hijab",
     "category": "Tie-dye",
-    "shade": "Model:Colorful-MU1601-66 · Tie-dye Hijab",
+    "shade": "Model:Colorful-MU1601-66",
     "price": 5,
     "image": "assets/img/prod-watercolor-tie-dye.jpg",
     "badges": ["Bestseller"],
-    "description": "Watercolor Tie-dye Hijab, Model:Colorful-MU1601-66 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Watercolor Tie-dye Hijab, Model:Colorful-MU1601-66, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-MOD-003",
     "name": "Black Tie-dye Hijab",
     "category": "Tie-dye",
-    "shade": "Model:Dark-MU1601-128 · Tie-dye Hijab",
+    "shade": "Model:Dark-MU1601-128",
     "price": 5,
     "image": "assets/img/prod-black-tie-dye.jpg",
     "badges": ["Bestseller"],
-    "description": "Black Tie-dye Hijab, Model:Dark-MU1601-128 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
+    "description": "Black Tie-dye Hijab, Model:Dark-MU1601-128, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
     "sku": "NV-CHF-001",
