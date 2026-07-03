@@ -6,9 +6,7 @@
     "shade": "Model:Blue-MU1601-26 · Tie-dye Hijab",
     "price": 5,
     "image": "assets/img/prod-blue-tie-dye.jpg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Blue Tie-dye Hijab, Model:Blue-MU1601-26 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -18,9 +16,7 @@
     "shade": "Model:Colorful-MU1601-66 · Tie-dye Hijab",
     "price": 5,
     "image": "assets/img/prod-watercolor-tie-dye.jpg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Watercolor Tie-dye Hijab, Model:Colorful-MU1601-66 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -30,9 +26,7 @@
     "shade": "Model:Dark-MU1601-128 · Tie-dye Hijab",
     "price": 5,
     "image": "assets/img/prod-black-tie-dye.jpg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Black Tie-dye Hijab, Model:Dark-MU1601-128 · Tie-dye Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -40,11 +34,9 @@
     "name": "Elegant Chiffon Hijab",
     "category": "Chiffon Hijab",
     "shade": "Model:HL3-3 · Chiffon Hijab",
-    "price": 3.0,
+    "price": 3,
     "image": "assets/img/prod-elegant-chiffon.jpg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Elegant Chiffon Hijab, Model:HL3-3 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -52,7 +44,7 @@
     "name": "Taupe Chiffon Hijab",
     "category": "Chiffon Hijab",
     "shade": "Model:HL4-6 · Chiffon Hijab",
-    "price": 3.0,
+    "price": 3,
     "image": "assets/img/prod-taupe-chiffon.jpg",
     "badges": [],
     "description": "Taupe Chiffon Hijab, Model:HL4-6 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
@@ -62,7 +54,7 @@
     "name": "Red Chiffon Hijab",
     "category": "Chiffon Hijab",
     "shade": "Model:HL4-15 · Chiffon Hijab",
-    "price": 3.0,
+    "price": 3,
     "image": "assets/img/prod-red-chiffon.jpg",
     "badges": [],
     "description": "Red Chiffon Hijab, Model:HL4-15 · Chiffon Hijab, designed with a soft drape and refined everyday finish for modest styling."
@@ -74,9 +66,7 @@
     "shade": "Model:HL6-11",
     "price": 4,
     "image": "assets/img/prod-cocoa-voile.jpg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Cocoa Voile Hijab, Model:HL6-11, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -100,55 +90,13 @@
     "description": "Blue Voile Hijab, Model:HL6-1, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
-    "sku": "NV-VOI-002",
-    "name": "Violet Voile Hijab",
-    "category": "Voile Hijab",
-    "shade": "Model:HL6-12",
-    "price": 4,
-    "image": "assets/img/prod-violet-voile.jpg",
-    "badges": [],
-    "description": "Violet Voile Hijab, Model:HL6-12, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
-    "sku": "NV-VOI-003",
-    "name": "Blue Voile Hijab",
-    "category": "Voile Hijab",
-    "shade": "Model:HL6-1",
-    "price": 4,
-    "image": "assets/img/prod-blue-voile-v2.jpg",
-    "badges": [],
-    "description": "Blue Voile Hijab, Model:HL6-1, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
-    "sku": "NV-VOI-002",
-    "name": "Violet Voile Hijab",
-    "category": "Voile Hijab",
-    "shade": "Model:HL6-12 · Voile Hijab",
-    "price": 4.0,
-    "image": "assets/img/prod-violet-voile.jpg",
-    "badges": [],
-    "description": "Violet Voile Hijab, Model:HL6-12 · Voile Hijab, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
-    "sku": "NV-VOI-003",
-    "name": "Olive Voile Hijab",
-    "category": "Voile Hijab",
-    "shade": "Olive Grey",
-    "price": 21,
-    "image": "assets/img/product-olive-voile.svg",
-    "badges": [],
-    "description": "Olive Voile Hijab in Olive Grey, designed with a soft drape and refined everyday finish for modest styling."
-  },
-  {
     "sku": "NV-JER-001",
     "name": "Everyday Jersey Hijab",
     "category": "Jersey Hijab",
     "shade": "Black",
     "price": 22,
     "image": "assets/img/product-everyday-jersey-black.svg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Everyday Jersey Hijab in Black, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -178,9 +126,7 @@
     "shade": "Flax",
     "price": 23,
     "image": "assets/img/product-cotton-linen-flax.svg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Cotton Linen Hijab in Flax, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -200,9 +146,7 @@
     "shade": "Model : HL7-1",
     "price": 4,
     "image": "assets/img/prod-pink-floral.jpg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Pink Floral Chiffon Hijab in Model : HL7-1, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -222,9 +166,7 @@
     "shade": "Honey Beige",
     "price": 25,
     "image": "assets/img/product-fringe-honey.svg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Fringe Hijab in Honey Beige, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -244,9 +186,7 @@
     "shade": "Onyx",
     "price": 28,
     "image": "assets/img/product-instant-onyx.svg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Instant Hijab in Onyx, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -266,9 +206,7 @@
     "shade": "Gold & Pearl",
     "price": 12,
     "image": "assets/img/product-magnet-pin-set.svg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Magnet Pin Set in Gold & Pearl, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
@@ -288,9 +226,7 @@
     "shade": "Stone Stripe",
     "price": 32,
     "image": "assets/img/product-everyday-soft-shawl.svg",
-    "badges": [
-      "Bestseller"
-    ],
+    "badges": ["Bestseller"],
     "description": "Everyday Soft Shawl in Stone Stripe, designed with a soft drape and refined everyday finish for modest styling."
   },
   {
